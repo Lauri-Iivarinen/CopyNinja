@@ -10,7 +10,7 @@
 
 The idea to create this extension stems from intensive job applying...
 
-having to always paste same links to applications made it tedious to always search for the link, copy, paste repeat. With this extension saving important links gets easy and allows users to copy links with ease.
+Often times when applying to jobs they ask you to provide the same links over and over (GitHub, LinkedIn, Portfolio...) and having to always paste same links to applications made it tedious to always search for the link, copy, paste repeat. With this extension saving important links gets easy and allows users to copy links with ease.
 
 ## Screenshots
 
