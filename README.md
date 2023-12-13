@@ -1,5 +1,11 @@
 # CopyNinja <img height=40 src="https://github.com/Lauri-Iivarinen/CopyNinja/blob/main/ninja2.png"/>
 
+## Get it yourself
+
+- Hopefully aivailable soon in Chrome Web Store
+- Install manually by cloning the repository and following instructions <a href="https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked">here</a>
+
+
 ## Idea
 
 The idea to create this extension stems from intensive job applying...
