@@ -1,0 +1,14 @@
+{
+    "name": "Copy Ninja",
+    "version": "1.0.0",
+    "description": "Quickly pin important links that need to be accessed regularly." ,
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "ninja2.png"
+    },
+    "icons": {
+        "48": "ninja.png",
+        "128": "ninja2.png"
+    }
+}
