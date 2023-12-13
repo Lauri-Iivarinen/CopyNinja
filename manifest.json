@@ -1,8 +1,10 @@
 {
     "name": "Copy Ninja",
     "version": "1.0.0",
-    "description": "Quickly pin important links that need to be accessed regularly." ,
+    "description": "Easily save and access important links or text snippets that need to be accessed regularly." ,
     "manifest_version": 3,
+    "author": "Lauri Iivarinen",
+    "homepage_url": "https://github.com/Lauri-Iivarinen/CopyNinja",
     "action": {
         "default_popup": "index.html",
         "default_icon": "ninja2.png"

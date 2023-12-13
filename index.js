@@ -74,8 +74,10 @@ const createButtons = () => {
 const addNew = () => {
     let link = document.getElementById("newLink")
     let name = document.getElementById("newLinkName")
-    if (link.value.length > 0 && name.value.length > 0) {
-        let res = { name: name.value, link: link.value, id: index }
+    if (link.value.length > 100) {
+        displayMessage('Maximum link length is 100 characters.', 5000)
+    } else if (link.value.length > 0 && name.value.length > 0) {
+        let res = { name: name.value.length > 15? name.value.slice(0,15)+'...' : name.value, link: link.value, id: index }
         let buttons = JSON.parse(localStorage.getItem('links'))
         if (buttons === null) {
             buttons = []
