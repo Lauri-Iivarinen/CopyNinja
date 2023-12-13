@@ -1,8 +1,12 @@
 # CopyNinja <img height=40 src="https://github.com/Lauri-Iivarinen/CopyNinja/blob/main/ninja2.png"/>
 
+## Description
+
+Constantly needing to access a piece of text or a link for example, but having issues always finding it? Copy Ninja will allow users to save often needed links or text inputs that can be easily copied to the users clipboard.
+
 ## Get it yourself
 
-- Hopefully aivailable soon in Chrome Web Store
+- Aivailable in the <a href="https://chromewebstore.google.com/detail/copy-ninja/pjbaanjhahllefhafllkbooejnlipicp?hl=en">Chrome Web Store</a>
 - Install manually by cloning the repository and following instructions <a href="https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked">here</a>
 
 
